@@ -1,0 +1,22 @@
+{
+  "name": "fitbit-hapi",
+  "version": "1.0.0",
+  "description": "Example code demonstrating basic fitbit-node functionality with hapi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server_fitbit.js"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Hapi",
+    "NodeJS"
+  ],
+  "author": "Abdoulaye Bah",
+  "license": "ISC",
+  "dependencies": {
+    "fitbit-node": "^2.0.5",
+    "hapi": "^16.6.2",
+    "mongoose": "^4.12.5"
+  }
+}

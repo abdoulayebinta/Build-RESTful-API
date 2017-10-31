@@ -1,0 +1,17 @@
+/node_modules
+/ExerciseFiles
+bundle.js
+npm-debug.log
+.DS_Store
+db.sh
+
+# IntelliJ
+*.iml
+/.idea
+
+.vscode
+
+# Logs
+logs
+*.log
+npm-debug.log*

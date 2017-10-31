@@ -1,0 +1,12 @@
+[
+    {
+        "index": 1,
+        "task": "Master ES6/ES7",
+        "owner": "Abdoulaye"
+    },
+    {
+        "index": 2,
+        "task": "Dig deep in Redux",
+        "owner": "Babel Bah"
+    }
+]
